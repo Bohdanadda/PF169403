@@ -1,3 +1,0 @@
-"""
-Cinema management system package.
-"""
