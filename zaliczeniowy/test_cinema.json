@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "name": "Test Cinema",
+    "timestamp": "2025-05-17T08:45:14.800567+00:00"
+  },
+  "halls": [
+    {
+      "number": 1,
+      "capacity": 100,
+      "available_seats": 100
+    }
+  ],
+  "reservations": [
+    {
+      "hall": 1,
+      "screening_start": "2025-05-17T11:45:14.800551",
+      "reserved": 50
+    }
+  ]
+}
